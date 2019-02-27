@@ -1,4 +1,5 @@
-{
+
+{   
     "name": "book1",
     "version": "1.0.0",
     "description": "在线电子书",
@@ -22,7 +23,7 @@
     "devDependencies": {
         "gitbook-cli": "^2.3.2"
                                         
-                              
+
     }
 
 }
